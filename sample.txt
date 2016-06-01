@@ -1,1 +1,2 @@
 u1 create aaaa
+u2 add bbb
